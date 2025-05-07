@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|d:\\kuliah\\smt 3\\basis data\\tiket_kereta\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form12.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0C2E10F8-6C6D-4E27-A1D2-8461652F8AA2}|tiket_kereta.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form5.vb [Design]",
+              "RelativeToolTip": "Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:49:49.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form5.vb",
+              "RelativeToolTip": "Form5.vb",
+              "ViewState": "AgIAALwAAAAAAAAAAAAUwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-07T05:06:07.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form12.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form12.vb",
+              "RelativeDocumentMoniker": "Form12.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form12.vb [Design]",
+              "RelativeToolTip": "Form12.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:29:49.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form11.vb",
+              "RelativeDocumentMoniker": "Form11.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form11.vb [Design]",
+              "RelativeToolTip": "Form11.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T03:26:24.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form10.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form10.vb",
+              "RelativeDocumentMoniker": "Form10.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form10.vb [Design]",
+              "RelativeToolTip": "Form10.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T14:46:06.706Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form10.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form10.vb",
+              "RelativeDocumentMoniker": "Form10.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form10.vb",
+              "RelativeToolTip": "Form10.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T02:06:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form9.vb",
+              "RelativeDocumentMoniker": "Form9.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form9.vb [Design]",
+              "RelativeToolTip": "Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T14:21:38.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form8.vb",
+              "RelativeDocumentMoniker": "Form8.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form8.vb",
+              "RelativeToolTip": "Form8.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T15:59:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:28:17.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form8.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form8.vb",
+              "RelativeDocumentMoniker": "Form8.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form8.vb [Design]",
+              "RelativeToolTip": "Form8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T14:02:03.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form7.vb [Design]",
+              "RelativeToolTip": "Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:56:50.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form6.vb",
+              "RelativeDocumentMoniker": "Form6.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form6.vb",
+              "RelativeToolTip": "Form6.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwH0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-10T04:22:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form6.vb",
+              "RelativeDocumentMoniker": "Form6.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form6.vb [Design]",
+              "RelativeToolTip": "Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:55:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form4.vb",
+              "RelativeDocumentMoniker": "Form4.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form4.vb [Design]",
+              "RelativeToolTip": "Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:42:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form3.vb [Design]",
+              "RelativeToolTip": "Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:37:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form11.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form11.vb",
+              "RelativeDocumentMoniker": "Form11.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form11.vb",
+              "RelativeToolTip": "Form11.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T14:25:32.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-02T13:30:30.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "DataSet1.xsd",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\DataSet1.xsd",
+              "RelativeToolTip": "DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-02T14:01:00.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Report1.rdlc",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-18T02:58:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form9.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form9.vb",
+              "RelativeDocumentMoniker": "Form9.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form9.vb",
+              "RelativeToolTip": "Form9.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-04T02:09:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form12.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form12.vb",
+              "RelativeDocumentMoniker": "Form12.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form12.vb",
+              "RelativeToolTip": "Form12.vb",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAWwHAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T14:46:05.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form4.vb",
+              "RelativeDocumentMoniker": "Form4.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form4.vb",
+              "RelativeToolTip": "Form4.vb",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAewIAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T14:05:44.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form3.vb",
+              "RelativeToolTip": "Form3.vb",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAWwHsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T13:26:44.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T12:53:25.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\Kuliah\\SMT 3\\Basis Data\\tiket_kereta\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-03T13:19:36.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
